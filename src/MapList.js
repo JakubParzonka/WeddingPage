@@ -4,7 +4,7 @@ import * as constants from "./data";
 
 export default function MapList() {
     return (
-        <div id="maps">
+        <div className='flex-item'>
             <p>
                 Poniżej znajdują się lokalizacje z oznaczonymi miejscami wydarzeń:
             </p>
